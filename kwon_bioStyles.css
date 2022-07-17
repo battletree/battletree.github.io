@@ -110,6 +110,12 @@ p{
 	padding: 15px;
 }
 
+figure{
+	float: left;
+	text-align: center;
+	font-style: italic;
+	
+}
 
 
 
